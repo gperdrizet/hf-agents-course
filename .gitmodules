@@ -1,0 +1,3 @@
+[submodule "unit-one-smolagents"]
+	path = unit-one-smolagents
+	url = git@github.com:gperdrizet/unit-one-smolagents.git
