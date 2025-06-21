@@ -1,0 +1,6 @@
+[submodule "unit-one-introduction"]
+	path = unit-one-introduction
+	url = git@github.com:gperdrizet/unit-one-introduction.git
+[submodule "unit-two-frameworks"]
+	path = unit-two-frameworks
+	url = git@github.com:gperdrizet/unit-two-frameworks.git
