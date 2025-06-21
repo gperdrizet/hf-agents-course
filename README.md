@@ -12,7 +12,7 @@
 | 2       | [Frameworks for AI agents](https://huggingface.co/learn/agents-course/unit2/introduction) | Understand how the fundamentals are implemented in popular libraries : smolagents, LangGraph, LLamaIndex |
 | 2.1     | [The smolagents framework](https://huggingface.co/learn/agents-course/unit2/smolagents/introduction) | |
 | 2.2     | [The LLamaIndex framework](https://huggingface.co/learn/agents-course/unit2/llama-index/introduction) | |
-| 2.3     | [The LanGraph framework](https://huggingface.co/learn/agents-course/unit2/langgraph/introduction) | |
+| 2.3     | [The LangGraph framework](https://huggingface.co/learn/agents-course/unit2/langgraph/introduction) | |
 | 2-bonus | [Agent Observability and Evaluation](https://huggingface.co/learn/agents-course/bonus-unit2/introduction) | Learn how to trace and evaluate your AI agents to make them ready for production. |
 | 3       | [Use Cases for Agentic Rag](https://huggingface.co/learn/agents-course/unit3/agentic-rag/introduction) | Let’s build some real life use cases (open to PRs 🤗 from experienced Agent builders) |
 | 3-bonus | [Agents in Games with Pokemon](https://huggingface.co/learn/agents-course/bonus-unit3/introduction) | |
