@@ -4,3 +4,6 @@
 [submodule "unit-two-frameworks"]
 	path = unit-two-frameworks
 	url = git@github.com:gperdrizet/unit-two-frameworks.git
+[submodule "unit-four-final-project"]
+	path = unit-four-final-project
+	url = git@github.com:gperdrizet/unit-four-final-project.git
